@@ -1,26 +1,35 @@
-Hello, my name is Sonu Kumar.
-I am a Java Developer (Beginner) and currently learning Core Java and Spring Framework.
 
-I have knowledge of:
+# Hi 👋, I'm Sonu Kumar
 
-Core Java and OOP concepts
+## 👨‍💻 About Me
+- 🌱 Learning **Core Java & Spring Framework**
+- 💻 Interested in **Full Stack Java Development**
+- 🧠 Practicing problem-solving and logic building
+- 🎯 Goal: Become a **Full Stack Java Developer**
 
-Arrays, Strings, and Methods
+## 🛠️ Skills
+### Backend
+- Core Java
+- Spring (Basics)
 
-Exception Handling (Basics)
+### Build Tools
+- Maven
+- Gradle
 
-Spring Framework (Basics)
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- React
 
-Build tools: Maven and Gradle
+### DevSecOps
+- DevSecOps Tools (Basics)
 
-Frontend technologies: HTML, CSS, JavaScript, Bootstrap, React
-
-DevSecOps tools (Basics)
-
-I like writing clean code and practicing programming daily.
-My goal is to become a Full Stack Java Developer and work on real-world projects
-
-
+## 📚 Currently Learning
+- Spring Boot
+- Advanced Java
+- Full Stack Development
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codewith_java1211) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/javasonu/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonukr7226@gmail.com) 
 
