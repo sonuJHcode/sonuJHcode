@@ -1,5 +1,24 @@
-# 💫 About Me:
-Hi, I’m Sonu Kumar 👨‍💻<br>I’m a beginner Web Developer and Java learner.<br>I am learning HTML, CSS, JavaScript,Bootstrap and React  and Java (OOP concepts).<br>DevSecOps (Maven,and Gradle tools) and Spring <br>I like to practice coding by making small projects and uploading them on GitHub.<br>My goal is to become a good software developer and improve my problem-solving skills step by step.<br><br>I believe in learning daily and growing slowly
+Hello, my name is Sonu Kumar.
+I am a Java Developer (Beginner) and currently learning Core Java and Spring Framework.
+
+I have knowledge of:
+
+Core Java and OOP concepts
+
+Arrays, Strings, and Methods
+
+Exception Handling (Basics)
+
+Spring Framework (Basics)
+
+Build tools: Maven and Gradle
+
+Frontend technologies: HTML, CSS, JavaScript, Bootstrap, React
+
+DevSecOps tools (Basics)
+
+I like writing clean code and practicing programming daily.
+My goal is to become a Full Stack Java Developer and work on real-world projects
 
 
 ## 🌐 Socials:
